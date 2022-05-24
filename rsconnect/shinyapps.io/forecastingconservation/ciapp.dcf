@@ -1,0 +1,13 @@
+name: ciapp
+title: ciapp
+username:
+account: forecastingconservation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5929589
+bundleId: 5879639
+url: https://forecastingconservation.shinyapps.io/ciapp/
+when: 1651875217.00159
+lastSyncTime: 1651875217.00161
+asMultiple: FALSE
+asStatic: FALSE

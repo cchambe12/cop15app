@@ -1,0 +1,13 @@
+name: cop15app
+title: cop15app
+username:
+account: forecastingconservation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6282522
+bundleId: 5912681
+url: https://forecastingconservation.shinyapps.io/cop15app/
+when: 1652731934.88949
+lastSyncTime: 1652731934.88952
+asMultiple: FALSE
+asStatic: FALSE
